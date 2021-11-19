@@ -1,8 +1,8 @@
 # react-native-todo-list
 
-Example Todo List application built using React Native.
-
-<img width="337" alt="Screen Shot 2021-11-19 at 5 47 52 PM" src="https://user-images.githubusercontent.com/94722746/142704899-88107453-dee1-4539-8618-2992c15b4439.png">
+<p align="center">
+  <img width="337" alt="Screen Shot 2021-11-19 at 5 47 52 PM" src="https://user-images.githubusercontent.com/94722746/142704899-88107453-dee1-4539-8618-2992c15b4439.png">
+</p>
 
 ## Dependencies
 
